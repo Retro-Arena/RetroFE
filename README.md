@@ -52,7 +52,7 @@ You may need to export the libs with $LIBRARY_PATH and or supply the include fol
 
 Download the source code:
 
-	git clone https://github.com/phulshof/RetroFE.git
+	https://github.com/Retro-Arena/RetroFE
 
 Generate your gcc make files:
 
