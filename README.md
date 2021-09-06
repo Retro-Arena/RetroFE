@@ -79,7 +79,7 @@ Install necessary dependencies:
 ## Download and compile the source code ##
 Download the source code:
 
-	git clone https://github.com/phulshof/RetroFE.git
+	git clone https://github.com/Retro-Arena/RetroFE
 
 Generate your gcc make files:
 
